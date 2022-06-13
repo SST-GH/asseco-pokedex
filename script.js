@@ -1,3 +1,5 @@
+//https://furry-firefly-24d.notion.site/Exercicio-03-05-2022-6a6901b92fd241dc9ae7ee5de13836a8
+
 const pokemonListUrl = "https://pokeapi.co/api/v2/pokemon?limit=150";
 
 const image = document.querySelector(".poki");
